@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvambhagat&label=Profile%20views&color=0e75b6&style=flat" alt="shuvambhagat" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **C++,Python,DSA,Web**
-
-- 📫 How to reach me **b200042@nitsikkim.ac.in**
-
 - ⚡ Fun fact **I think i am funny**
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Computer Science and Mathematics at the National Institute of Technology Sikkim.
+🌱  I'm on track for learning more about machine learning,cyber security
+✍️  In my free time, I pursue Graphic Design and Photography.
+✉️  You can shoot me an email at shuvambhagat57@gmail.com I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
