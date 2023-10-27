@@ -7,11 +7,11 @@
 - 💬 Ask me about **C++,Python,DSA,Web**
 - ⚡ Fun fact **I think i am funny**
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying Computer Science and Mathematics at the National Institute of Technology Sikkim.
-🌱  I'm on track for learning more about machine learning,cyber security
-✍️  In my free time, I pursue Graphic Design and Photography.
-✉️  You can shoot me an email at shuvambhagat57@gmail.com I'll try to respond as soon as I can.
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+- 🎓  I'm currently studying Computer Science and Mathematics at the National Institute of Technology Sikkim.
+- 🌱  I'm on track for learning more about machine learning,cyber security.
+- ✍️  In my free time, I pursue Graphic Design and Photography.
+- ✉️  You can shoot me an email at shuvambhagat57@gmail.com I'll try to respond as soon as I can.
+- 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
