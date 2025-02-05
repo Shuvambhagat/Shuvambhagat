@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1zG62HwOfoa2w/giphy.gif" width="400" alt="Shinchan Coding">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="400" alt="Shinchan Coding">
 </p>
 
 <p align="center">
